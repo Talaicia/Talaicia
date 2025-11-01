@@ -6,6 +6,6 @@ I specialize in Swift and Python, with experience building iOS apps, web project
 
 Skills:
 - Swift & SwiftUI
-- Python & JavaScript
-- iOS App Development
+- Python
+- App Development
 - Web Development (HTML, CSS, JS)
